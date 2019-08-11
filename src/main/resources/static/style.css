@@ -1,0 +1,9 @@
+div > a{
+    color: black;
+}
+div > a:hover{
+    color: black;
+}
+div > h6.text-danger{
+    display: none;
+}
